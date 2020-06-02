@@ -1,0 +1,104 @@
+lang_long,udpipe_name,udpipe_model,iso_code
+Afrikaans,afrikaans,afrikaans-ud-2.1-20180111.udpipe,af
+Albanian,NA,NA,sq
+Amharic,NA,NA,am
+Arabic,arabic,arabic-ud-2.0-170801.udpipe,ar
+Armenian,NA,NA,hy
+Azerbaijani,NA,NA,az
+Basque,basque,basque-ud-2.0-170801.udpipe,eu
+Belarusian,belarusian,belarusian-ud-2.0-170801.udpipe,be
+Bengali,NA,NA,bn
+Bosnian,NA,NA,bs
+Bulgarian,bulgarian,bulgarian-ud-2.0-170801.udpipe,bg
+Catalan; Valencian,catalan,catalan-ud-2.0-170801.udpipe,ca
+Cebuano,NA,NA,NA
+Chichewa,NA,NA,ny
+Chinese,chinese,chinese-ud-2.0-170801.udpipe,zh
+Corsican,NA,NA,co
+Croatian,croatian,croatian-ud-2.0-170801.udpipe,hr
+Czech,czech,czech-ud-2.0-170801.udpipe,cs
+Danish,danish,danish-ud-2.0-170801.udpipe,da
+Dutch; Flemish,dutch,dutch-ud-2.0-170801.udpipe,nl
+English,english,english-ud-2.0-170801.udpipe,en
+Esperanto,NA,NA,eo
+Estonian,estonian,estonian-ud-2.0-170801.udpipe,et
+Filipino,NA,NA,tl
+Finnish,finnish,finnish-ud-2.0-170801.udpipe,fi
+French,french,french-ud-2.0-170801.udpipe,fr
+Frisian,NA,NA,fy
+Galician,galician,galician-ud-2.0-170801.udpipe,gl
+Georgian,NA,NA,ka
+German,german,german-ud-2.0-170801.udpipe,de
+"Greek, Modern (1453-)",greek,greek-ud-2.0-170801.udpipe,el
+Gujarati,NA,NA,gu
+Haitian creole,NA,NA,ht
+Hausa,NA,NA,ha
+Hawaiian,NA,NA,NA
+Hebrew,hebrew,hebrew-ud-2.0-170801.udpipe,he
+Hindi,hindi,hindi-ud-2.0-170801.udpipe,hi
+Hmong,NA,NA,NA
+Hungarian,hungarian,hungarian-ud-2.0-170801.udpipe,hu
+Icelandic,NA,NA,is
+Igbo,NA,NA,ig
+Indonesian,indonesian,indonesian-ud-2.0-170801.udpipe,id
+Irish,irish,irish-ud-2.0-170801.udpipe,ga
+Italian,italian,italian-ud-2.0-170801.udpipe,it
+Japanese,japanese,japanese-ud-2.0-170801.udpipe,ja
+Javanese,NA,NA,jv
+Kannada,NA,NA,kn
+Kazakh,kazakh,kazakh-ud-2.0-170801.udpipe,kk
+Khmer,NA,NA,km
+Korean,korean,korean-ud-2.0-170801.udpipe,ko
+Kurdish (kurmanji),NA,NA,ku
+Kyrgyz,NA,NA,ky
+Lao,NA,NA,lo
+Latin,latin,latin-ud-2.0-170801.udpipe,la
+Latvian,latvian,latvian-ud-2.0-170801.udpipe,lv
+Lithuanian,lithuanian,lithuanian-ud-2.0-170801.udpipe,lt
+Luxembourgish; Letzeburgesch,NA,NA,lb
+Macedonian,NA,NA,mk
+Malagasy,NA,NA,mg
+Malay,NA,NA,ms
+Malayalam,NA,NA,ml
+Maltese,NA,NA,mt
+Maori,NA,NA,mi
+Marathi,NA,NA,mr
+Mongolian,NA,NA,mn
+Myanmar (burmese),NA,NA,my
+Nepali,NA,NA,ne
+Norwegian,NA,NA,no
+Pashto,NA,NA,ps
+Persian,persian,persian-ud-2.0-170801.udpipe,fa
+Polish,polish,polish-ud-2.0-170801.udpipe,pl
+Portuguese,portuguese,portuguese-ud-2.0-170801.udpipe,pt
+Punjabi,NA,NA,pa
+Romanian; Moldavian; Moldovan,romanian,romanian-ud-2.0-170801.udpipe,ro
+Russian,russian,russian-ud-2.0-170801.udpipe,ru
+Samoan,NA,NA,sm
+Sanskrit,sanskrit,sanskrit-ud-2.0-170801.udpipe,sa
+Serbian,serbian,serbian-ud-2.1-20180111.udpipe,sr
+Sesotho,NA,NA,NA
+Shona,NA,NA,sn
+Sindhi,NA,NA,sd
+Sinhala,NA,NA,si
+Slovak,slovak,slovak-ud-2.0-170801.udpipe,sk
+Slovenian,slovenian,slovenian-ud-2.0-170801.udpipe,sl
+Somali,NA,NA,so
+Spanish; Castilian,spanish,spanish-ud-2.0-170801.udpipe,es
+Sundanese,NA,NA,su
+Swahili,NA,NA,sw
+Swedish,swedish,swedish-ud-2.0-170801.udpipe,sv
+Tajik,NA,NA,tg
+Tamil,tamil,tamil-ud-2.0-170801.udpipe,ta
+Telugu,NA,NA,te
+Thai,NA,NA,th
+Turkish,turkish,turkish-ud-2.0-170801.udpipe,tr
+Ukrainian,ukrainian,ukrainian-ud-2.0-170801.udpipe,uk
+Urdu,urdu,urdu-ud-2.0-170801.udpipe,ur
+Uzbek,NA,NA,uz
+Vietnamese,vietnamese,vietnamese-ud-2.0-170801.udpipe,vi
+Welsh,NA,NA,cy
+Xhosa,NA,NA,xh
+Yiddish,NA,NA,yi
+Yoruba,NA,NA,yo
+Zulu,NA,NA,zu
