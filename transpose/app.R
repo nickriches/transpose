@@ -301,7 +301,9 @@ shinyApp(
         text <- input$text_file_TA
       }
       
-      gl_auth("/Users/nickriches/Google Drive/AHRC artificial intelligence/translation_shiny_web_app_prototype/translation app/translation-app-256015-5b586d7ca141.json")
+      gl_auth("translation-app-256015-5b586d7ca141.json")
+        
+      # gl_auth("/Users/nickriches/Google Drive/AHRC artificial intelligence/translation_shiny_web_app_prototype/translation app/translation-app-256015-5b586d7ca141.json")
       
       lang_iso <- googleLanguageR::gl_translate_detect(text)$language
       

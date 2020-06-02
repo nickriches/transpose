@@ -1,0 +1,12 @@
+name: transpose
+title: transpose
+username:
+account: nickriches
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2394497
+bundleId: 3217903
+url: https://nickriches.shinyapps.io/transpose/
+when: 1591094339.66179
+asMultiple: FALSE
+asStatic: FALSE
